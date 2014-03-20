@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
 .DS_Store
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> b486d20300d67e90db36c9d34c54ee8260777b7b
